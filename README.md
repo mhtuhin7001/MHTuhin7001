@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasibul Islam Tuhin</h1>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQGs4j_zL6PEbA/profile-displaybackgroundimage-shrink_350_1400/B56ZVls03THQAY-/0/1741168005552?e=1746662400&v=beta&t=TIC5lZbdXIPhiwlmrJTf5F0HoctUsZb7lktY5CIcepQ" alt="mhtuhin7001" />
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 <p align="center">As a passionate web developer, I thrive on transforming creative ideas into functional and visually appealing websites. Proficient in HTML, CSS, and JavaScript, I specialize in crafting seamless user experiences through responsive design. With a keen eye for detail, I enjoy optimizing code for performance and staying up-to-date with the latest industry trends. Adaptable and collaborative, I excel in both front-end and back-end development, ensuring the successful implementation of features and functionality. Committed to continuous learning, I seek new challenges to enhance my skills and contribute to cutting-edge web development projects.</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
